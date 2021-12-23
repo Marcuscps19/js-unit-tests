@@ -1,5 +1,3 @@
-/* eslint-disable max-len */
-
 let createMenu = (obj) => {
   const objeto = {
     fetchMenu: () => obj,
